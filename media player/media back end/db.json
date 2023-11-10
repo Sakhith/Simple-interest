@@ -1,0 +1,27 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Leo-trailer",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0E_ptrlJx06cECZQLjCkPUjeD_VPYS8bslA&usqp=CAU",
+      "url": "https://www.youtube.com/embed/Po3jStA673E"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "entertainment",
+      "allVideos": []
+    },
+    {
+      "id": "2",
+      "name": "sports",
+      "allVideos": []
+    },
+    {
+      "id": "3",
+      "name": "education",
+      "allVideos": []
+    }
+  ]
+}
